@@ -24,6 +24,7 @@
     </build>
     <modules>
         <module>Core</module>
+        <module>Caching</module>
     </modules>
 
 </project>
