@@ -1,6 +1,5 @@
 package com.wiggler.crux.core;
 
-import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
 public class TokenizerComponent implements AnalyzerComponent {

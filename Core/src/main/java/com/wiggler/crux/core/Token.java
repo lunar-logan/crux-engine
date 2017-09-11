@@ -45,7 +45,7 @@ public class Token {
         return "Token{" +
                 "value='" + value + '\'' +
                 ", index=" + index +
-                ", attributes=" + attributes +
+                ", getAttributes=" + attributes +
                 ", children=" + children +
                 '}';
     }

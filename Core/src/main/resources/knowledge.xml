@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge>
+    <concept>
+        <name>price</name>
+        <id>1</id>
+        <similar-concepts>
+            <id>2</id>
+            <id>3</id>
+        </similar-concepts>
+    </concept>
+
+    <concept>
+        <name>cost</name>
+        <id>2</id>
+        <similar-concepts>
+            <id>1</id>
+            <id>3</id>
+        </similar-concepts>
+    </concept>
+
+    <concept>
+        <name>value</name>
+        <id>3</id>
+        <similar-concepts>
+            <id>1</id>
+            <id>2</id>
+        </similar-concepts>
+    </concept>
+</knowledge>
